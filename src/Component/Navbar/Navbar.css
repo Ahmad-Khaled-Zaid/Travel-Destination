@@ -1,0 +1,15 @@
+.Navbar{
+    text-decoration: none;
+    color: grey;
+    font-weight: 900;
+    font-size: 2rem;
+    font-family: sans-serif;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Navbar:hover{
+    color: red;
+    transition: 0.2s;
+}

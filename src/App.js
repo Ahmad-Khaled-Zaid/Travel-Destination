@@ -1,5 +1,5 @@
 import Home from "./Component/Home/Home";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import "./App.css";
 function App() {
   return (
