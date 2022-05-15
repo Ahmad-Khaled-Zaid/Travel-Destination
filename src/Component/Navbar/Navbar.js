@@ -7,7 +7,6 @@ function Navbar() {
         <Link to="/" className="Navbar">
           Home
         </Link>
-        
       </nav>
     </>
   );
